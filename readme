@@ -8,4 +8,9 @@ what are you doing now?
 control branch method 
 add another line
 --no--ff
+<<<<<<< Updated upstream
 add bug branch
+=======
+add dev2 branch
+Bug分支
+>>>>>>> Stashed changes
